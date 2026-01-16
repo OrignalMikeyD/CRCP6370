@@ -1,2 +1,1 @@
-# CRCP6370
-Repository for the AI in the Metaverse Class
+# SMU Creative Tech AI Metaverse
